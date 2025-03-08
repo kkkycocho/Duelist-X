@@ -1,6 +1,6 @@
 # Duelist-X
 
-<img src=".github/game-screenshot.png" alt="game screenshot" width="500">
+<img src="./public/game-screenshot.png" alt="game screenshot" width="500">
 
 ## 🎮 About the Game
 
